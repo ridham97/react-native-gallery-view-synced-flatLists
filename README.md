@@ -1,5 +1,3 @@
 # React-Native-gallery-view-Synced-FlatLists
 
-<a href="https://imgflip.com/gif/5hgr60"><img src="https://imgflip.com/gif/5hgr60" title="gallery-view"/></a>
-
-<div style="width:353px;max-width:100%;"><div style="height:0;padding-bottom:211.05%;position:relative;"><iframe width="353" height="745" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5hgr60"></iframe></div><p><a href="https://imgflip.com/gif/5hgr60">via Imgflip</a></p></div>
+![5hgqyp](https://user-images.githubusercontent.com/35310564/126858968-d4e7baa9-a3ae-4d27-8654-32e8a9b00c5d.gif)
